@@ -1,7 +1,7 @@
 [project]
 name = "mediapipe-ex-win"
 version = "0.1.0"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "dlib-bin>=20.0.1",
     "face-recognition-models>=0.3.0",
